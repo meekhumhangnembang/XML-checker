@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "csc201-2026"
+assignment: "task-1-xml-checker"
+secret: "14nxwco8"
+owner:
+  username: "MeekhumUniSC"
+  id: 313401815
+  accepted_at: "2026-08-05T11:57:48Z"
+source:
+  owner: "UniSunshineCoast"
+  owner_id: 24259407
+  repo: "CSC201-Task-1-2026"
+  branch: "main"
